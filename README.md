@@ -15,3 +15,11 @@ You must determine the following:
 - What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?
 - What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?
 - What would you change in the password policy to make breaking the passwords harder? 
+
+# Resources
+
+- https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/
+- https://en.wikipedia.org/wiki/Salt_(cryptography)
+- https://en.wikipedia.org/wiki/Cryptographic_hash_function
+- https://en.wikipedia.org/wiki/Password_cracking#Software
+- https://howsecureismypassword.net/
